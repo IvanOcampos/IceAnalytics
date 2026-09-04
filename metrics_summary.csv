@@ -1,0 +1,11 @@
+metric,value
+filas_raw,8782.0
+filas_core,8507.0
+filas_quarantine,275.0
+pct_quarantine,3.13
+votos_promedio_evento,6.91
+votos_promedio_usuario,6.9
+pct_votos_top1pct_usuarios,6.43
+pct_votos_top20pct_usuarios,51.92
+usuarios_unicos,1994.0
+posts_por_usuario_mediana,3.0
